@@ -1,7 +1,7 @@
 <?php
 
 
-echo "git".PHP_EOL;
+echo "git2".PHP_EOL;
 echo "hello world".PHP_EOL;
 
 ?>
